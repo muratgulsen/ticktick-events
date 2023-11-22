@@ -1,0 +1,24 @@
+{
+  "name": "ticktick-events",
+  "version": "1.0.0",
+  "description": "A small python script used to create tasks that can get auto-completed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idkwebdev/ticktick-events.git"
+  },
+  "keywords": [
+    "tick",
+    "ticktick",
+    "event"
+  ],
+  "author": "idkwebdev",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/idkwebdev/ticktick-events/issues"
+  },
+  "homepage": "https://github.com/idkwebdev/ticktick-events#readme"
+}
